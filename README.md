@@ -9,5 +9,5 @@ Encontrei o site para realizar a instalação do Docker Compose no Debian usando
 
 https://www.edivaldobrito.com.br/tecnologia-docker-no-debian/
 
-![Instalação do WordPress](https://raw.githubusercontent.com/brunofurtado9/teste_WP_MSQL/main/screenshots/1%20-%20Instalando%20o%20WordPress.jpg)
+![alt text](https://raw.githubusercontent.com/brunofurtado9/teste_WP_MSQL/main/screenshots/1%20-%20Instalando%20o%20WordPress.jpg) Instalação do WordPress.
 
