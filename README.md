@@ -47,5 +47,5 @@ Para simular o projeto deve ser executado através do Docker e pelo Docker Compo
 
 ### Motivação das minhas escolhas:
 
-Nesse caso eu tentei realizar o DockerFile mas foi mais complexo, não consegui entender bem e nem executa-lo, mas resolvi continuar as pesquisas e consegui validar com o Docker Compose depois de tentar muito. Apenas com esse teste e com as pesquisas consegui adquirir um pouco de conhecimento em Docker, Github, WordPress e um pouco mais de Linux.
+Nesse caso eu tentei realizar o DockerFile mas foi mais complexo, não consegui entender bem e nem executa-lo, mas resolvi continuar as pesquisas e consegui validar com o Docker Compose depois de tentar muito. Apenas com esse teste e com as pesquisas consegui adquirir um pouco de conhecimento em Docker, Github, WordPress e um pouco mais de Linux, onde já vai ajudar mais no início do entendimento da área.
 
