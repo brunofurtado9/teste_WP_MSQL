@@ -5,10 +5,10 @@ Teste WordPress DockerFile
 
 Como nunca mexi com essa tecnologia tive que realizar pesquisas sobre o assunto, segue abaixo as minhas tentativas e o que consegui fazer.
 
-Tentei procurar dicas e sites para entender o DockerFile mas ao ler o código não consegui executar.
+Tentei procurar dicas e sites para entender o DockerFile mas ao ler o código não consegui executar por se tratar de algo mais completo.
 - https://github.com/onnimonni/alpine-wordpress/blob/master/Dockerfile
 
-Encontrei alguns sites para realizar a instalação do Docker Compose no Debian usando o VirtualBox e o programa Putty para acessar via SSH:
+Encontrei alguns sites para realizar a instalação do Docker Compose no Debian usando o VirtualBox para criar a máquina virtual e o programa Putty para acessar via SSH e realizar alguns comandos:
 
 - https://www.edivaldobrito.com.br/tecnologia-docker-no-debian/
 - https://qastack.com.br/programming/14494747/add-images-to-readme-md-on-github - Site que usei para aprender a inserir as imagens no Github.
@@ -17,7 +17,7 @@ Utilizei o site abaixo para pegar algumas dicas de formatação no Github:
 
 - https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-Como informei na entrevista não possuo conhecimento em Docker, então fui me baseando em pesquisas no Google e peguei o código ".yml" pronto no site abaixo, onde já tinha as duas imagens do MYSQL e do WordPress, como também consegui validar a configuração do WordPress no Debian.
+Como informei na entrevista não possuo conhecimento em Docker, Github, e nem nas outras questões solicitadas, então fui me baseando em pesquisas no Google e peguei o código ".yml" pronto no site abaixo, onde já tinha as duas imagens do MYSQL e do WordPress, como também consegui validar a configuração do WordPress no Debian.
 - https://www.hostinger.com.br/tutoriais/como-instalar-wordpress-no-docker-windows-macos-e-linux
 
 Realizei a configuração no Debian e consegui levantar o container para realizar a configuração do WordPress.
