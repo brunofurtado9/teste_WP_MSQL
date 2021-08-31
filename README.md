@@ -5,7 +5,8 @@ Teste WordPress DockerFile
 
 Como nunca mexi com essa tecnologia tive que realizar pesquisas sobre o assunto, segue abaixo as minhas tentativas e o que consegui fazer.
 
-Tentei procurar dicas e sites para entender o DockerFile mas ao ler o código não consegui executar por se tratar de algo mais completo.
+Tentei procurar dicas e sites para entender o DockerFile mas ao ler o código não consegui executar por se tratar de algo mais completo, devido a isso não realizei os testes no site solicitado via e-mail (https://labs.play-with-docker.com;). 
+
 - https://github.com/onnimonni/alpine-wordpress/blob/master/Dockerfile
 
 Encontrei alguns sites para realizar a instalação do Docker Compose no Debian usando o VirtualBox para criar a máquina virtual e o programa Putty para acessar via SSH e realizar alguns comandos:
@@ -47,5 +48,5 @@ Para simular o projeto deve ser executado através do Docker e pelo Docker Compo
 
 ### Motivação das minhas escolhas:
 
-Nesse caso eu tentei realizar o DockerFile mas foi mais complexo, não consegui entender bem e nem executa-lo, mas resolvi continuar as pesquisas e consegui validar com o Docker Compose depois de tentar muito. Apenas com esse teste e com as pesquisas consegui adquirir um pouco de conhecimento em Docker, Github, WordPress e um pouco mais de Linux, onde já vai ajudar mais no início do entendimento da área.
+Nesse caso eu tentei realizar o DockerFile mas foi mais complexo, não consegui entender bem e nem executa-lo, mas resolvi continuar as pesquisas e consegui validar com o Docker Compose depois de tentar muito. Apenas com esse teste e com as pesquisas consegui adquirir um pouco de conhecimento em Docker, Github, WordPress e um pouco mais de Linux, onde já vai ajudar mais no início do entendimento da área. Realizei um pequeno "versionamento" no github como versão v0.1 apenas para deixar como teste.
 
