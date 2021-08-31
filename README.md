@@ -17,7 +17,7 @@ Utilizei o site abaixo para pegar algumas dicas de formatação no Github:
 
 - https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-Como informei na entrevista não possuo conhecimento em Docker, então fui me baseando em pesquisas no Google e peguei o código ".yml" pronto no site abaixo, como também consegui validar a configuração do WordPress no Debian.
+Como informei na entrevista não possuo conhecimento em Docker, então fui me baseando em pesquisas no Google e peguei o código ".yml" pronto no site abaixo, onde já tinha as duas imagens do MYSQL e do WordPress, como também consegui validar a configuração do WordPress no Debian.
 - https://www.hostinger.com.br/tutoriais/como-instalar-wordpress-no-docker-windows-macos-e-linux
 
 Realizei a configuração no Debian e consegui levantar o container para realizar a configuração do WordPress.
@@ -39,4 +39,13 @@ Realizei a configuração no Debian e consegui levantar o container para realiza
 ![alt text](https://raw.githubusercontent.com/brunofurtado9/teste_WP_MSQL/main/screenshots/8%20-%20Not%C3%ADcia%202%20no%20WordPress.jpg) Notícia 2 foi inserida no Blog de Notícias do WordPress.
 
 ![alt text](https://raw.githubusercontent.com/brunofurtado9/teste_WP_MSQL/main/screenshots/9%20-%20Not%C3%ADcia%203%20no%20WordPress.jpg) Notícia 3 foi inserida no Blog de Notícias do WordPress.
+
+
+### Simulação do Projeto:
+
+Para simular o projeto deve ser executado através do Docker e pelo Docker Compose.
+
+### Motivação das minhas escolhas:
+
+Nesse caso eu tentei realizar o DockerFile mas foi mais complexo, não consegui entender bem e nem executa-lo, mas resolvi continuar as pesquisas e consegui validar com o Docker Compose depois de tentar muito.
 
